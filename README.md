@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JWGameDev
+- 📫 I’m currently studying game development
